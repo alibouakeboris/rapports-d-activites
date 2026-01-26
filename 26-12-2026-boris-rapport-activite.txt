@@ -1,0 +1,4 @@
+## RAPPORT D'ACTIVITES CE 26/01/2026 ##
+
+ # MQTT PROTOCOL https://mqtt.org/
+ Découverte, docs, tutoriels
