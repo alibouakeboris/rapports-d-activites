@@ -1,0 +1,11 @@
+## RAPPORT D'ACTIVITES CE 02/02/2026 ##
+
+- Étude du fonctionnement général d’une poubelle connectée (détection de niveau, état de remplissage)
+- Réflexion sur les types de capteurs envisageables pour les différents états (vide, remplie)
+- Exploration et comparaison des modes de communication possibles (Bluetooth, Wi-Fi, LoRa)
+- Refléxion sur la visualisation des données transmises en réalité augmentée
+
+https://www.softysoft.fr/articles/blog/fonctionnement-de-la-poubelle-connectee
+https://www.youtube.com/watch?v=m1-B0jbfqOE
+https://dati-plus.com/reseau-lora/
+https://www.youtube.com/watch?v=H0XYANRosVo&pp=ygUTY29ubmVjdGVkIHRyYXNoIGNhbg%3D%3D
