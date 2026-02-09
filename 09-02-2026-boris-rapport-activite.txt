@@ -1,0 +1,8 @@
+## RAPPORT D'ACTIVITES CE 09/02/2026 ##
+
+- Préparation pour le follow up 1 de l'ESP-800
+- Tutos et compréhension Arduino via TPs : Entrées-sorties, gestion d'une entrée, délais bloquants et non-bloquants 
+
+https://www.youtube.com/watch?v=m9X_XKYHsIMhttps://www.youtube.com/watch?v=m1-B0jbfqOE
+https://www.youtube.com/watch?v=NLc4Crpb7p0
+https://www.youtube.com/watch?v=SPy4buarX6U
