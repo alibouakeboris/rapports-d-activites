@@ -1,0 +1,12 @@
+## RAPPORT D'ACTIVITES CE 16/02/2026 ##
+
+- Rédaction des conventions de nommage et la doc de contrib pour le repo du projet ESP 
+- Arduino
+
+https://github.com/EpitechMscProPromo2027/T-ESP-800-project-100896-TLS_Seed/commits/main/
+https://github.com/EpitechMscProPromo2027/T-ESP-800-project-100896-TLS_Seed/commits/dev
+https://github.com/EpitechMscProPromo2027/T-ESP-800-project-100896-TLS_Seed/commits/frontend/dev
+https://github.com/EpitechMscProPromo2027/T-ESP-800-project-100896-TLS_Seed/commits/backend/dev
+
+
+
