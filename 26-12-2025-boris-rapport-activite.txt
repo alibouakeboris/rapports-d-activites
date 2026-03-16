@@ -1,4 +1,4 @@
-## RAPPORT D'ACTIVITES CE 26/01/2026 ##
+## RAPPORT D'ACTIVITES CE 26/12/2025 ##
 
  # MQTT PROTOCOL https://mqtt.org/
  Découverte, docs, tutoriels
