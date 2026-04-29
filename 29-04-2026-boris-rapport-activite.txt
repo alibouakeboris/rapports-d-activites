@@ -1,0 +1,5 @@
+## RAPPORT D'ACTIVITES CE 29/04/2026 ##
+
+- Mise en place, améliorations des interfaces web (tableau de bord, paramètres) pour le POC T-ESP-800
+- Démarrage de la mise en place des marqueurs de scan des poubelles sous Unity (T-DEV-811)
+
